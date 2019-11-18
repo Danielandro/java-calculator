@@ -14,9 +14,11 @@
 
 > Simple calculator written in Java
 
-## Prerequisites
+## Tech Stack
 
 - Java 8
+- Junit
+- Maven
 
 ## Install
 
