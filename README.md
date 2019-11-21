@@ -19,24 +19,24 @@
 **In Progress**
 
 ```
-As a User,
-So I can calculate the sum,
+As a User
+So I can calculate the sum
 I want to add two numbers together
 ```
 
 **Todo**
 
 ```
-As a User,
-So I can calculate how many are left,
+As a User
+So I can calculate how many are left
 I want to subtract from a number
 
-As a User,
-So I can calculate the product,
+As a User
+So I can calculate the product
 I want to multiply two numbers
 
-As a User,
-So I can calculate the fraction,
+As a User
+So I can calculate the fraction
 I want to divide two numbers
 ```
 
