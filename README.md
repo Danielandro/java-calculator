@@ -26,22 +26,24 @@ I want to add two numbers together
 As a User
 So I can calculate how many are left
 I want to subtract from a number
+
+As a User
+So I can calculate the product
+I want to multiply two numbers
 ```
 
 **In Progress**
 
 ```
 As a User
-So I can calculate the product
-I want to multiply two numbers
+So I can calculate the fraction
+I want to divide two numbers
 ```
 
 **Todo**
 
 ```
-As a User
-So I can calculate the fraction
-I want to divide two numbers
+
 ```
 
 ## Tech Stack

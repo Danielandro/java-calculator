@@ -13,4 +13,9 @@ public class CalculateTest {
   public void testSubtractReturnsCorrectAnswer() {
     assertEquals(4, Calculate.subtract(10, 6));
   }
+
+  @Test
+  public void testMultiplyReturnsCorrectAnswer() {
+    assertEquals(15, Calculate.multiply(5, 3));
+  }
 }
