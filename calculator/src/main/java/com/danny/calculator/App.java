@@ -25,4 +25,5 @@ public final class App {
         scanner.close();
         System.out.println(userInput);
     }
+
 }
