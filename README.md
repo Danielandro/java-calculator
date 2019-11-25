@@ -16,25 +16,29 @@
 
 ## User Stories
 
-**In Progress**
+**Done**
 
 ```
 As a User
 So I can calculate the sum
 I want to add two numbers together
+
+As a User
+So I can calculate how many are left
+I want to subtract from a number
+```
+
+**In Progress**
+
+```
+As a User
+So I can calculate the product
+I want to multiply two numbers
 ```
 
 **Todo**
 
 ```
-As a User
-So I can calculate how many are left
-I want to subtract from a number
-
-As a User
-So I can calculate the product
-I want to multiply two numbers
-
 As a User
 So I can calculate the fraction
 I want to divide two numbers

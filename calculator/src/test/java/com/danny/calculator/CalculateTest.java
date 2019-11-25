@@ -5,7 +5,12 @@ import static org.junit.Assert.*;
 
 public class CalculateTest {
   @Test
-  public void testUserCanAddTwoNumbers() {
-    assertEquals(Calculate.add(2, 4), 6);
+  public void testAddReturnsCorrectAnswer() {
+    assertEquals(6, Calculate.add(2, 4));
+  }
+
+  @Test
+  public void testSubtractReturnsCorrectAnswer() {
+    assertEquals(4, Calculate.subtract(10, 6));
   }
 }
