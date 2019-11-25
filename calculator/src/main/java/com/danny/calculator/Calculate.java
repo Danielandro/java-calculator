@@ -12,4 +12,8 @@ public final class Calculate {
   public static int multiply(int num1, int num2) {
     return num1 * num2;
   }
+
+  public static float divide(int num1, int num2) {
+    return num1 / num2;
+  }
 }

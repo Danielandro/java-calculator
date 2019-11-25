@@ -18,4 +18,9 @@ public class CalculateTest {
   public void testMultiplyReturnsCorrectAnswer() {
     assertEquals(15, Calculate.multiply(5, 3));
   }
+
+  @Test
+  public void testDivideReturnsCorrectAnswer() {
+    assertEquals(5, Calculate.divide(10, 2), 0.0001);
+  }
 }

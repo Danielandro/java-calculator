@@ -30,14 +30,18 @@ I want to subtract from a number
 As a User
 So I can calculate the product
 I want to multiply two numbers
+
+As a User
+So I can calculate the fraction
+I want to divide two numbers
 ```
 
 **In Progress**
 
 ```
 As a User
-So I can calculate the fraction
-I want to divide two numbers
+So I cannot perform invalid calculations
+I want to be unable to divide by zero
 ```
 
 **Todo**
