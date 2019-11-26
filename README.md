@@ -34,14 +34,16 @@ I want to multiply two numbers
 As a User
 So I can calculate the fraction
 I want to divide two numbers
+
+As a User
+So I cannot perform invalid calculations
+I want to be unable to divide by zero
 ```
 
 **In Progress**
 
 ```
-As a User
-So I cannot perform invalid calculations
-I want to be unable to divide by zero
+
 ```
 
 **Todo**
