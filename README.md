@@ -49,7 +49,7 @@ I want to be unable to divide by zero
 **Todo**
 
 ```
-
+* Parse User input - separate operator + numbers
 ```
 
 ## Tech Stack
